@@ -1,7 +1,6 @@
-### Code Files
+🌲 A web application for those who love the geat outdoors.  Explore campgrounds, leave a review, add a new campground yourself.  Feel free to register and explore the world around us! ☀️
 
-# ycproject
 https://vast-bastion-57693.herokuapp.com/
-Node.js, Express, EJS, JS, etc.
+
 
 
